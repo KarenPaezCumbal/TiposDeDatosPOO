@@ -9,5 +9,11 @@ package vista;
  * @author LENOVO
  */
 public class Main {
-    
+  
+          public static void main(String[] args) {
+              //tipo de dato
+              //1.- enteros
+              
+              
+          }
 }
